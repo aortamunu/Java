@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a730a8f3-b543-4092-85a7-b7f9da33458f" name="Changes" comment="" />
+    <list default="true" id="a730a8f3-b543-4092-85a7-b7f9da33458f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../lab/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab/src/lab1/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab/src/lab1/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nwProgramming/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../nwProgramming/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nwProgramming/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,13 +34,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Seemana/IdeaProjects/NWlab3"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.URLConnectionExample">
     <configuration name="HTTP_Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="unit4.Cookies.HTTP_Example" />
